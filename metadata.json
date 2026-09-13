@@ -1,0 +1,6 @@
+{
+  "name": "PURE OCEAN - Arctic Deep Aquifer",
+  "description": "Born in the eternal abyss. Crafted untouched by nature. Ultra-pure Arctic deep aquifer bottled water.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
